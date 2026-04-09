@@ -2,6 +2,16 @@
 
 > 一个文件夹，让所有 AI 工具共享同一套 Agent 配置。
 
+## 安装
+
+```bash
+npx skills add elya55/agent-hub
+```
+
+## 预览
+
+![Agent Hub Dashboard](preview.png)
+
 ## 解决什么问题
 
 你在用 Claude、Cursor、OpenClaw……每个工具都要单独配置 Agent、用户信息、Skill。
